@@ -9,9 +9,9 @@ I write a python to automatally turn on and off the LED. When setthing the LED v
 <img src="./Images/led.gif" alt="gif" width="600"/>
 
 ### 1.2 Proposal
-I want to build a soil humidity monitor which can be put into the soil of a plant to sense the humidity of the soil. If the soil is lower than the expected value, the LED panel will be turned on showing a "L" (for low) or sad face emoji on the LED panal, the Wifi part will also be turned on and send message to the pc.
+I want to build a soil humidity monitor which can be put into the soil of a plant to sense the humidity of the soil. If the humudity is lower than an expected value, the LED panel will be turned on to show a "L" (for low) or sad face emoji, the Wifi part will also be turned on and message that remain me to wataer the plant will be sent to my PC .
 
-I think this idea is cool because I like growing plants in my apartment, but I always forgot to water my plants so some of them dead :(.  I believe this device can assist me to grow my plant better.
+I think this idea is cool because I love growing plants in my apartment, but I always forgot to water my plants so some of them dead :(.  I believe this device can assist me to grow my plants better.
 
 <img src="./Images/design.jpg" alt="design" width="600"/>
 
