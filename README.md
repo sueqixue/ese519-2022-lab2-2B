@@ -23,3 +23,7 @@ LED Panel | 1
 Wifi Chip | 1
 Battery | 1
 Wires | Many
+
+### 1.4 Final Version - Sense Light
+
+<img src="./Images/sense_light.gif" alt="final" width="600"/>
