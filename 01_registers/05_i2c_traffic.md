@@ -4,6 +4,8 @@
 
 ### 1.1 Gif of Toggle the Qt Py's Neopixel LED When the BOOT Button is Pressed
 
+See code of part 1 [here](https://github.com/sueqixue/ese519-2022-lab2-2B/tree/main/Code).
+
 <img src="./01_registers.gif" alt="01" width="600"/>
 
 ### 1.2 Notes
