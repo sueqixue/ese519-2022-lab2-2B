@@ -27,3 +27,7 @@ Wires | Many
 ### 1.4 Final Version - Sense Light
 
 <img src="./Images/sense_light.gif" alt="final" width="600"/>
+
+## II - Practice
+
+See the corresponding folder for detailed writeup for each part.
