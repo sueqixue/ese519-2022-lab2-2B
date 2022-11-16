@@ -1,4 +1,4 @@
-# ese5190-2022-lab2-2B
+# ese5190-2022-lab2-2B-05
 
 ## 05_i2c_traffic
 
