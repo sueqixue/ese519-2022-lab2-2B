@@ -9,7 +9,7 @@ Question | State
 04_slow_motion | completed
 05_i2c_traffic | completed
 06_pioscope | completed
-07_pio_sequencer | not-started
+07_pio_sequencer | in-progress
 08_adps_protocol | not-started
 09_lab_on_a_chip | not-started
 10_protoboard | completed
