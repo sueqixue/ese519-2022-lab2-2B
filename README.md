@@ -12,7 +12,7 @@ Question | State
 07_pio_sequencer | not-started
 08_adps_protocol | not-started
 09_lab_on_a_chip | not-started
-10_protoboard | in-progress
+10_protoboard | completed
 EC_analog_knob | not-started
 EC_ansi_escapes | not-started
 EC_asm_registers | not-started
