@@ -8,8 +8,6 @@
 - read/write any 32-bit value to this address
 - read/write using any of the atomic bit-setting aliases and a 32-bit mask
 
-See code [here](https://github.com/sueqixue/ese519-2022-lab2-2B/tree/main/02_repl/Code).
-
 ### 2.2 Result
 
 <img src="./01_registers.gif" alt="01" width="600"/>
