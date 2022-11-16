@@ -10,6 +10,4 @@
 
 ### 2.2 Result
 
-<img src="./01_registers.gif" alt="02" width="600"/>
-
-### 2.3 Notes
+<img src="./02_repl.png" alt="02" width="600"/>
