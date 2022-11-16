@@ -1,8 +1,6 @@
-# ese5190-2022-lab2-2B-03
+# 03_sequencer
 
-## 022_repl
-
-### 3.1 Combine 01 and 02
+## 3.1 Combine 01 and 02
 
 Create a 'sequencer' that allows you to record BOOT button presses and play them on the Neopixel, and also play a sequence of read/write commands. You should be able to:
 
@@ -17,11 +15,11 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
 	- inputs: BOOT button, console commands, register read/write commands
 	- outputs: neopixel color, neopixel brightness, data over serial, register read/write commands
 
-### 3.2 Result
+## 3.2 Result
 
 <img src="./01_registers.gif" alt="03" width="600"/>
 
-### 3.3 Notes
+## 3.3 Notes
 
 - Junpeng mentioned that file also nned to records the sampling frequency, since without adjusting <frequency>, REPL will replay with the recorded frequency.
 
