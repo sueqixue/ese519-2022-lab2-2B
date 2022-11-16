@@ -17,7 +17,7 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
 
 ## 3.2 Result
 
-<img src="./01_registers.gif" alt="03" width="600"/>
+<img src="./03_sequencer.gif" alt="03" width="600"/>
 
 ## 3.3 Notes
 
