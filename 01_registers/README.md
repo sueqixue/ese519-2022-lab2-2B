@@ -6,8 +6,6 @@
 
 Toggle the Qt Py's Neopixel LED when the BOOT button is pressed, using only direct register reads to access the boot button status. You may use the SDK to initialize the board and the pins, and the WS2812 example code to toggle the Neopixel.
 
-See code [here](https://github.com/sueqixue/ese519-2022-lab2-2B/tree/main/01_registers/Code).
-
 ### 1.2 Result
 
 <img src="./01_registers.gif" alt="01" width="600"/>
