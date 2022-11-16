@@ -1,0 +1,3 @@
+C:/Users/xue_q/Downloads/lab2/2C/flashlight/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/xue_q/Downloads/lab2/2C/flashlight/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/xue_q/Downloads/lab2/2C/flashlight/build/pioasm/CMakeFiles/rebuild_cache.dir
