@@ -22,3 +22,7 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
 <img src="./01_registers.gif" alt="03" width="600"/>
 
 ### 3.3 Notes
+
+- Junpeng mentioned that file also nned to records the sampling frequency, since without adjusting <frequency>, REPL will replay with the recorded frequency.
+
+- Junpeng suggested that to read the address easier via serial, he recommand us to used `scanf("%08x",&addr)` instead of `getchar_nonblocking`. A potential drawback is that it may introudce blocking time when reading from serial.
