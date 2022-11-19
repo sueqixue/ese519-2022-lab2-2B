@@ -127,6 +127,18 @@ class sequencer():
         self.ser.write(s.encode('utf-8'))
         print("\n")
 
+    def writei2c(self, address,value):
+        s='o'+address+'\n'+value+'\n'
+        self.ser.write(s.encode('utf-8'))
+        
+    def readi2c(self,address, readlen):
+        s='i'+address+'\n'+readlen+'\n'
+        self.ser.write(s.encode('utf-8'))
+        tmp=self.ser.readline()
+        res=tmp.split(',')
+        for i in res:
+            print(i)
+
 if __name__ =="__main__":
     mkdir() #create folders for recordings 
     COM_list = selectCOM()
