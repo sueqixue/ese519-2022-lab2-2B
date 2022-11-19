@@ -13,7 +13,9 @@
 	- According to the datasheet, the PIO is not suitable for button use, we decided to add PIO-I2C in the sequencer for the I2C device use such as APDS9960.
 
 	- The interface from PC side is:
+
         `i <address> <read length>`
+	
         `o <address> <write value>`
 
 - [x] The ability to R/W any register:
