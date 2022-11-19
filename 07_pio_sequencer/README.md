@@ -4,10 +4,7 @@
 
 - Modify your sequencer to use the PIO as its primary I/O engine, including the ability to R/W any register.
 
-## 7.2 Result
-
-
-## 7.3 Notes
+## 7.2 Notes
 - [x] Modify the sequencer to use the PIO as primary I/O engine:
 
 	- According to the datasheet, the PIO is not suitable for button use, we decided to add PIO-I2C in the sequencer for the I2C device use such as APDS9960.
