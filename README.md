@@ -3,16 +3,16 @@
 Outline:
 Question | State
 :---: | :---:
-01_registers | completed
-02_repl | completed
-03_sequencer | completed
-04_slow_motion | completed
-05_i2c_traffic | completed
-06_pioscope | completed
-07_pio_sequencer | in-progress
+01_registers | √
+02_repl | √
+03_sequencer | √
+04_slow_motion | √
+05_i2c_traffic | √
+06_pioscope | √
+07_pio_sequencer | *in-progress*
 08_adps_protocol | not-started
 09_lab_on_a_chip | not-started
-10_protoboard | completed
+10_protoboard | √
 EC_analog_knob | not-started
 EC_ansi_escapes | not-started
 EC_asm_registers | not-started
