@@ -9,9 +9,9 @@ Question | State
 04_slow_motion | √
 05_i2c_traffic | √
 06_pioscope | √
-07_pio_sequencer | *in-progress*
-08_adps_protocol | not-started
-09_lab_on_a_chip | not-started
+07_pio_sequencer | √
+08_adps_protocol | √
+09_lab_on_a_chip | *in-progress*
 10_protoboard | √
 EC_analog_knob | not-started
 EC_ansi_escapes | not-started
