@@ -13,7 +13,7 @@ Plot the serial output of SCL
 
 and SDA
 
-<img src="./sda.png" alt="06_sda" width="600"/>
+<img src="./sda.png" alt="06_sda" width="1000"/>
 
 ## 6.3 Notes
 
