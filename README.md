@@ -35,4 +35,4 @@ EC_speaker | not-started
 	- Part 07 was the part the most difficult to implement. As I mentioned above, me and my teammates didn't knwo where to start at first. 
 
 - What steps have you taken to resolve these difficulties? Any other barriers you have faced to completing this assignment? Mention any students, repos, or other resources you have found helpful in completing the lab so far.
-	- My teammates and I worked spent a lot of time in K-lab for this assigment. We discuss the questions and solutions with some other hardwroking students who also chose to be in K-lab to work on lab2. The submission of Dang0v and their teammates really help us to undertand what we should do for part 07, 08, and 09.
+	- My teammates and I worked spent a lot of time in K-lab for this assigment. We read the APDS9600 datasheet. We discussed the questions and solutions with some other hardwroking students who also chose to be in K-lab to work on lab2. The submission of Dang0v and their teammates really help us to undertand what we should do for part 07, 08, and 09.
