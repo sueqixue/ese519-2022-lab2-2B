@@ -10,4 +10,4 @@ Update your sequencer to be able to slow down and speed up recordings/replay. On
 
 ## 4.2 Result
 
-See result of 03_sequencer.
+See [here](https://github.com/sueqixue/ese519-2022-lab2-2B/blob/main/03_sequencer/README.md); code is the same as 03_sequencer, the speed is slow down.
