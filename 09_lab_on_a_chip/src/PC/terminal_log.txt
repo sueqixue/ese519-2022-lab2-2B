@@ -1,0 +1,24 @@
+already there
+[0],    COM4,   USB Serial Device (COM4)
+Init
+r 50000000
+Read: 
+b'v50000000'
+
+
+w v50000000 50
+
+
+r 50000000
+Read: 
+b'v50000050'
+
+
+# 15
+1115232508
+Recorded
+
+$ 1115232508
+period =  0.05
+size =  297
+Replay time =  14.896224021911621
