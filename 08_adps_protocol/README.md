@@ -8,5 +8,4 @@
 
 
 ## 8.3 Notes
-
-I refer the submission of Dong0v to work on this part. Use their APDS9960 drive code.
+- I refer the submission of Dong0v to work on this part. Use their APDS9960 drive code.
