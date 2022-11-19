@@ -17,6 +17,8 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
 
 ## 3.2 Result
 
+Play the recording with normal speed and then the slow motion speed.
+
 <img src="./03_sequencer.gif" alt="03" width="600"/>
 
 ## 3.3 Notes
